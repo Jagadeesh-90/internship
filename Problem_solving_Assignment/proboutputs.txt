@@ -1,0 +1,15 @@
+enter pair of related courses6
+0 1
+0 2
+1 2
+2 1
+2 3
+3 3
+0
+0 course  is completed
+1 course  is completed
+2 course  is completed
+3 course  is completed
+PS E:\first_git_repo>
+
+
